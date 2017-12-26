@@ -10,3 +10,7 @@ Thanks a ton to [Joe](https://github.com/svbnet), as his previous plugins provid
 
 Feel free to open issues here if you have them, but I'll also try to watch the main
 Athame application issues for those that are relevant.
+
+# Downloads and Known Issues
+
+http://telegra.ph/Deezer-Plugin-for-Athame-v14-12-26
